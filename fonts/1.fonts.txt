@@ -1,0 +1,12 @@
+Fonts used in the Project:
+
+Anonymous Pro
+Castellar
+Courier New
+JetBrains Mono
+Monaco
+Montserrat
+OCR A Extended
+ProFont
+Roboto Mono
+Ubuntu
